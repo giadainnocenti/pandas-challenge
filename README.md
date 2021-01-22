@@ -18,6 +18,8 @@ The notebook contains the following tables:
 
 For sorting two functions shared by unutbu on stack overflow were used. [Here](https://stackoverflow.com/questions/5967500/how-to-correctly-sort-a-string-with-a-number-inside) is the original thread.
 
+The data analysis in the folder [HeroesOfPymoli](./HeroesOfPymoli) is made using the Pandas package in Python. This exercise was solved for practicing more pandas methods.
+The script, written using jupyter notebook can be found [here](./HeroesOfPymoli/HeroesOfPymoli_starter.ipynb). The main conclusion that is possible to draw from this analysis are not reported since this exercise is not intended for grading.
 
 ### Copyright
 
